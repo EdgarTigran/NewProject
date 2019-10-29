@@ -12,7 +12,9 @@
   "author": "Edgar",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongod": "^2.0.0",
+    "mongoose": "^5.7.7"
   },
   "devDependencies": {
     "nodemon": "^1.19.4"
